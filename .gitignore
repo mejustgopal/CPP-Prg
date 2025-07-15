@@ -1,0 +1,4 @@
+# Ignore VSCode settings
+.vscode/
+*.exe
+**/*.exe
